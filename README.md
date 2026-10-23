@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+ExtraBold&weight=900&pause=1000&center=true&width=505&lines=Hi%2C+I'm+Farel+Gilang+Aka+Zaxxy%F0%9F%91%8B;Unemployed+Modder+%26+Electronics+Enthusiast;I+build+websites+%26+game+mods)](https://git.io/typing-svg)
-
+<p align="center">
+  <img src="./intro.svg" width="100%" alt="Farel Gilang aka Zaxxy">
+</p>
 <!--
 **ZaxxyChill/ZaxxyChill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

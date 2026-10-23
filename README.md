@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&weight=900&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Farel+Gilang+Aka+Zaxxy+%F0%9F%91%8B;Unemployed+Modder+%26+Electronics+Enthusiast;I+build+websites+%26+game+mods)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Rajdhani&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=Hi%2C+I%27m+Farel+Gilang+Aka+Zaxxy+%F0%9F%91%8B;Unemployed+Modder+%26+Electronics+Enthusiast;I+build+websites+%26+game+mods" alt="Typing SVG" />
+</p>
+
 
 <!--
 **ZaxxyChill/ZaxxyChill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

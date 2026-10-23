@@ -1,0 +1,29 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150">
+  <rect width="800" height="150" rx="12" fill="#0d1117"/>
+
+  <text
+    x="400"
+    y="65"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="32"
+    font-weight="900"
+    fill="#58A6FF"
+    stroke="#58A6FF"
+    stroke-width="0.7"
+    paint-order="stroke fill">
+    Hi, I'm Farel Gilang Aka Zaxxy 👋
+  </text>
+
+  <text
+    x="400"
+    y="105"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="18"
+    font-weight="700"
+    fill="#c9d1d9">
+    Electronics Enthusiast • Game Modder
+  </text>
+</svg>
